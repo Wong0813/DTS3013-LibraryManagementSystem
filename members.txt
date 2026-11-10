@@ -1,0 +1,16 @@
+Member ID: 3
+Member Name: GOH
+Member Contact Detail: 222222222
+Member Status: active
+Member ID: 4
+Member Name: Yang
+Member Contact Detail: 44444
+Member Status: active
+Member ID: 5
+Member Name: HAHA
+Member Contact Detail: 000
+Member Status: unactive
+Member ID: 7
+Member Name: hehe
+Member Contact Detail: 2222
+Member Status: active
